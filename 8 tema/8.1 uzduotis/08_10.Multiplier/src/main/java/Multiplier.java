@@ -1,4 +1,5 @@
 public class Multiplier {
+
     private int number;
 
     public Multiplier(int number){

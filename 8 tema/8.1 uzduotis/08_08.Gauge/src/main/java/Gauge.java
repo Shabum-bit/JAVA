@@ -20,6 +20,6 @@ public class Gauge {
         return this.value;
     }
     public boolean full(){
-        return this.value ==5;
+        return this.value == 5;
     }
 }
